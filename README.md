@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parkavi
-- 👀 I’m interested in full stack web develoopment
-- 🌱 I’m a college prefinalyear student
+- 👀 I’m interested in software engineering, Salesforce developer, prompt engineering , frontend
+- 🌱 I’m a college finalyear student
 - 💞️ I’m looking for a job 
 - 📫 I'm currently learning programming languages to built my knowledge
 
